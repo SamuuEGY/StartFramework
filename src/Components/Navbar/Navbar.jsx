@@ -26,7 +26,7 @@ export default function Navbar() {
           <ul className="navbar-nav ">
             <li className="nav-item ">
               <NavLink className="nav-link text-white" to="/About">
-                ABOUT <span className="sr-only"></span>
+                ABOUT <span className="sr-only">(current)</span>
               </NavLink>
             </li>
             <li className="nav-item">
